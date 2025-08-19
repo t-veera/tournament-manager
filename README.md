@@ -20,7 +20,7 @@ A modern, real-time tournament management system built for unique partnerships f
 
 ## 🚀 Live Demo
 
-[View Live Tournament](https://tournament-manager-your-url.vercel.app)
+[View Live Tournament](https://tournament-manager-iota.vercel.app/)
 
 ## 🏗️ Technology Stack
 
